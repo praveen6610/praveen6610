@@ -38,6 +38,8 @@
 
 <img align="left" alt="Praveen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=praveen6610&show_icons=true&hide_border=true" />
 
+<img align="left" alt="Praveen's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen6610&show_icons=true&hide_border=true" />
+
 [website]: https://praveen6610.github.io
 [twitter]: https://twitter.com/praveen_6610
 [github]: https://github.com/praveen6610
