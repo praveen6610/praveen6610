@@ -40,6 +40,10 @@
 
 <img align="left" alt="Praveen's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen6610&hide=ruby&show_icons=true&hide_border=true" />
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=praveen6610" alt="praveen6610" />
+</p>
+
 [website]: https://praveen6610.github.io
 [twitter]: https://twitter.com/praveen_6610
 [github]: https://github.com/praveen6610
